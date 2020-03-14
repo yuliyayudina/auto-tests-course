@@ -1,2 +1,4 @@
 # auto-tests-course
-learning auto testing
+learning auto testin
+
+how to use GIT
